@@ -1,0 +1,159 @@
+      html{
+        width: 1024px;
+        margin:auto;
+      }
+
+      #site-box{
+        width: 1024px;
+      }
+      
+      .red{
+          color: red;
+      }
+
+      .white{
+        color: white;
+    }
+
+      .bold{
+        font-weight:bold;
+      }
+
+      .size7{
+        font-size:  7pt;
+      }
+      .size{
+        font-size:  10pt;
+      }
+      .size1{
+        font-size:  15pt;
+      }
+
+      .size2{
+        font-size:  18pt;
+      }
+
+      .size3{
+        font-size:  23pt;
+      }
+
+
+
+      .right{
+        text-align: right;
+      }
+
+     .center{
+       text-align: center;
+     }
+
+      .p{
+          padding-left: 30px 
+      }
+
+      .box{
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .background{
+        background-color: beige;
+        height: 250px;
+      }
+
+      .background2{
+        background-color: red;
+      }
+
+      .background3{
+        background-color:white;
+      }
+
+      .opacity{
+        opacity:0.5 ;
+      }
+
+      .padding{
+        padding-left:  30px;
+      }
+
+      .padding100{
+        padding-left:  30px;
+        
+      }
+
+      .padding50{
+        padding-left:  40px;
+        
+      }
+
+      .padding80{
+        padding-left:  50px;
+        
+      }
+      .padding200{
+        padding-left:  200px;
+        
+      }
+
+      .padding500{
+        padding-left:  150px;
+        
+      }
+
+      .padding300{
+        padding-left:  378px;
+      }
+
+      .background200{
+        background-color:red; 
+        width:500px;
+        padding: 30px;
+      }
+
+      .background300{
+        background-color:black; 
+        width:500px;
+        padding: 10px;
+      }
+
+      .underline{
+        text-decoration: underline;
+      }
+      
+      .padding2{
+        padding: 2px; 
+      }
+
+
+      .padding20{
+        padding: 20px; 
+      }
+
+      .padding30{
+
+        margin: 30px; 
+        padding: 50px;
+        background-color: beige;
+        height: 250px;
+        color: red;
+        
+      }
+
+
+
+      .padding500{
+        padding-left: 50px; 
+        padding-top: 50px;
+        
+      }
+
+      .backgrounda{
+        background-color: bisque;
+        margin: auto;
+        margin-left: 10px;
+      }
+      
+
+      
+    
